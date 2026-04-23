@@ -3,11 +3,9 @@ My  ==First== :flushed: Repository - Abiad :blush:
 
 ![m'lady](https://i.imgur.com/v8IVDka.jpg)
 
-# H1 
- ***bold-italic*** Here are some information about my favorite series/movie using different Markdown elements.
+# ***bold-italic*** Here are some information about my favorite series/movie using different Markdown elements.
 
-### H3
- ==Here are my list of my favorite Series or Movie.== :joy:
+### ==Here are my list of my favorite Series or Movie==. :joy:
 |Series            | Movie                |
 |      :----:      |        :----:        |
 | *Young Sheldon   | *Cars                |
